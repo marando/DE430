@@ -1,0 +1,12 @@
+{
+    "name": "marando/de430",
+    "description": "JPL DE430",
+    "license": "GNU2",
+    "authors": [
+        {
+            "name": "Ashley Marando",
+            "email": "a.marando@me.com"
+        }
+    ],
+    "require": {}
+}
